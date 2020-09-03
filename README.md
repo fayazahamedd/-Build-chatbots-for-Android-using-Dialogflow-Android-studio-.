@@ -2,4 +2,4 @@
 
 # -In build as like google assistant -
 
-# -Inbuild obile application is been added-
+# -Inbuild mobile application -
